@@ -1,0 +1,27 @@
+{
+  "name": "@gujj0002/npm",
+  "version": "6.9.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Alpesh Gujjar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Github.com/gujj0002.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/Github.com/gujj0002/issues"
+  },
+  "homepage": "https://github.com/Github.com/gujj0002#readme"
+}
